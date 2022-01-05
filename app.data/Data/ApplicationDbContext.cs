@@ -11,6 +11,7 @@ namespace app.data.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+        
         }
     }
 }
